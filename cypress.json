@@ -1,0 +1,6 @@
+{
+  "env": {
+    "token": "Bearer e227cc149195171efc9453cdb8ec6a3e813f1f3ad3e9deda5813f234a3a5aa68"
+  },
+  "baseUrl": "https://gorest.co.in/public/v2"
+}

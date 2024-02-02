@@ -1,0 +1,17 @@
+{
+  "name": "gorest_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "cypress": "^6.8.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
